@@ -1,0 +1,13 @@
+img {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.tweet{
+    height: 110px;;
+}
+
+strong{
+    display: inline-block;
+    width: 100px;
+}
